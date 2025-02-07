@@ -1,0 +1,29 @@
+{
+  "name": "@devcoderama/game-id-checker",
+  "version": "1.0.0",
+  "description": "Module for checking game IDs and server zones",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "game",
+    "id checker",
+    "zone id",
+    "gaming"
+  ],
+  "author": "devcoderama",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devcoderama/game-id-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devcoderama/game-id-checker/issues"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "node-cache": "^5.1.2"
+  },
+  "homepage": "https://github.com/devcoderama/game-id-checker#readme"
+}
